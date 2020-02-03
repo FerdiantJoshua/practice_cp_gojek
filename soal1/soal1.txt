@@ -1,0 +1,8 @@
+5 sf
+16 fs
+8 sf
+4 fs
+2 sf
+1 fs
+
+stiurf
